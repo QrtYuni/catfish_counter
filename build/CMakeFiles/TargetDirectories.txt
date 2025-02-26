@@ -1,0 +1,3 @@
+/home/eros/tugas_akhir/build/CMakeFiles/rebuild_cache.dir
+/home/eros/tugas_akhir/build/CMakeFiles/edit_cache.dir
+/home/eros/tugas_akhir/build/CMakeFiles/run.dir
