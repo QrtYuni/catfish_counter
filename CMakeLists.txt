@@ -11,7 +11,7 @@ include_directories(${PROJECT_SOURCE_DIR})
 
 include_directories(include)
 
-add_executable(run src/main.cpp)
+add_executable(run src/main.cpp src/inference.cpp)
 target_link_libraries(run
     ${OpenCV_LIBS}
 
